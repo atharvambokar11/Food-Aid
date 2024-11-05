@@ -100,24 +100,6 @@ For running the application:
 - You should have a MongoDB database.
 - You should have a code editor (preferred: VS Code)
 
-## Useful Links
-
-- Demo: https://food-aid-aayush.herokuapp.com/
-- Github Repo: https://github.com/aayush301/Food-donation-management-system
-- Nodejs download: https://nodejs.org/
-- VS Code download: https://code.visualstudio.com/
-- Tutorials: https://www.w3schools.com/
-- npmjs docs: https://docs.npmjs.com/
-- Expressjs docs: https://expressjs.com/
-- Bootstrap docs: https://getbootstrap.com/docs/5.1/getting-started/introduction/
-- Mongoosejs docs: https://mongoosejs.com/docs/index.html
-- Mongodb atlas: https://www.mongodb.com/cloud/atlas/register
-- Mongodb docs: https://docs.mongodb.com/manual/introduction/
-- Nodemailer docs: https://nodemailer.com/
-- Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
-- Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
-- VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-
 ## Contact
 
 - Email: atharv.ambokar1@gmail.com
