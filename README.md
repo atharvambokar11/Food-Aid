@@ -12,7 +12,6 @@ A web application which is useful for management of food donation and collection
 - [Technologies used](#technologies-used)
 - [npm packages used](#npm-packages-used)
 - [Prerequisites](#prerequisites)
-- [Useful Links](#useful-links)
 - [Contact](#contact)
 
 ## Installation and Setup
