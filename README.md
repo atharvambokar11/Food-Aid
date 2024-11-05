@@ -120,5 +120,5 @@ For running the application:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: atharv.ambokar1@gmail.com
+- Linkedin: https://www.linkedin.com/in/atharv-ambokar-57b371166/
